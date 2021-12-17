@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ---
 layout: post
 title:  "Ein neuer Eintrag! Yeah"
@@ -13,15 +12,3 @@ Or [bing][bing].
 [google]: https://google.com?s=Jekyll%20Docs
 [yahoo]:   https://www.yahoo.com?s=Jekyll%20Docs
 [bing]: https://www.bing.com?s=Jekyll%20Docs
-=======
----
-layout: post
-title:  "Live Site!"
-date:   2021-12-17 14:29:45 +0100
-categories: jekyll update
----
-
-Check out the [live site][live] .
-
-[live]: https://thomasdeml.github.io
->>>>>>> Stashed changes
