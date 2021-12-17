@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Ein neuer Eintrag! Yeah"
+date:   2021-12-17 13:14:00 +0100
+categories: jekyll update
+---
+
+Check out this [Google Search for Jekyll][google] for more info on how to get the most out of Jekyll.
+Or [yahoo][yahoo]. 
+Or [bing][bing].
+
+[google]: https://google.com?s=Jekyll%20Docs
+[yahoo]:   https://www.yahoo.com?s=Jekyll%20Docs
+[bing]: https://www.bing.com?s=Jekyll%20Docs
