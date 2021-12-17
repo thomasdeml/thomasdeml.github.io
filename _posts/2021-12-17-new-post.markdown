@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Ein neuer Eintrag! Yeah"
-date:   2021-12-17 13:14:00 +0100
+title:  "Live Site!"
+date:   2021-12-17 14:29:45 +0100
 categories: jekyll update
----
 
 Check out this [Google Search for Jekyll][google] for more info on how to get the most out of Jekyll.
 Or [yahoo][yahoo]. 
