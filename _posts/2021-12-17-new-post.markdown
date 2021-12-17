@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ein neuer Eintrag! Yeah"
+title:  "new post"
 date:   2021-12-17 13:14:00 +0100
 categories: jekyll update
 ---
